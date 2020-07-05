@@ -419,3 +419,5 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
 JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
 1593922475791	Marionette	INFO	Stopped listening on port 34013
+1593979021823	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0yllD4"
+*** You are running in headless mode.
