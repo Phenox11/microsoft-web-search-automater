@@ -14,10 +14,7 @@ import random
 options = Options()
 options.headless = True
 Path = info.path
-user_agent = "Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16"
-profile = webdriver.FirefoxProfile()
-profile.set_preference("general.useragent.override", user_agent)
-driver = webdriver.Firefox(profile, executable_path=Path)
+driver = webdriver.Firefox(executable_path=Path, options=options)
 #driver.set_window_size(360,640)
 
 wait = WebDriverWait(driver, 90)
@@ -63,7 +60,10 @@ def web():
         driver.quit()
 
 def mobile():
-    #driver = webdriver.Firefox(profile, executable_path=Path)
+    user_agent = "Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16"
+    profile = webdriver.FirefoxProfile()
+    profile.set_preference("general.useragent.override", user_agent)
+    driver = webdriver.Firefox(profile, executable_path=Path, options=options)
     r = requests.get('https://random-word-api.herokuapp.com//word?number=30')
     r = str(r.content).replace("\"", " ").replace(",", "").replace("b'[", "").replace(" ]'", "")
     r = r.split()
