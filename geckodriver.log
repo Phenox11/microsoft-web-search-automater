@@ -327,3 +327,95 @@ JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: Inv
 1593921917674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletHcOJP"
 1593921920205	Marionette	INFO	Listening on port 34113
 1593921920286	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593922012995	Marionette	INFO	Stopped listening on port 34113
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1593922089010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOOdG8T"
+1593922092402	Marionette	INFO	Listening on port 34903
+1593922092425	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1593922122745	Marionette	INFO	Stopped listening on port 34903
+1593922128197	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehFW2yH"
+1593922130699	Marionette	INFO	Listening on port 35167
+1593922130704	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593922133120	Marionette	INFO	Stopped listening on port 35167
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 115: Error: Unknown callback
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1593922152512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg3V8sN"
+1593922156134	Marionette	INFO	Listening on port 39827
+1593922156224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593922157316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile44szc5"
+1593922160503	Marionette	INFO	Listening on port 43339
+1593922160525	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1593922203117	Marionette	INFO	Stopped listening on port 43339
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1593922207558	Marionette	INFO	Stopped listening on port 39827
+1593922207757	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuZtuM7"
+1593922210906	Marionette	INFO	Listening on port 34875
+1593922211022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593922212070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOsIiG5"
+1593922215465	Marionette	INFO	Listening on port 36467
+1593922215483	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1593922244117	Marionette	INFO	Stopped listening on port 36467
+1593922244594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRPUEnt"
+1593922245584	Marionette	INFO	Stopped listening on port 34875
+1593922248615	Marionette	INFO	Listening on port 36551
+1593922248704	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593922249753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWlLBVo"
+1593922253111	Marionette	INFO	Listening on port 32823
+1593922253162	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1593922261183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIXVgrh"
+1593922264956	Marionette	INFO	Listening on port 34163
+1593922264992	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593922266113	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile440NMD"
+1593922269228	Marionette	INFO	Listening on port 46553
+1593922269323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593922295421	Marionette	INFO	Stopped listening on port 46553
+1593922297794	Marionette	INFO	Stopped listening on port 34163
+1593922299021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew1lniv"
+1593922302570	Marionette	INFO	Listening on port 38939
+1593922302630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593922303685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilec7y1TV"
+1593922307658	Marionette	INFO	Listening on port 36701
+1593922307697	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1593922352486	Marionette	INFO	Stopped listening on port 36701
+1593922353158	Marionette	INFO	Stopped listening on port 38939
+1593922354389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSN957q"
+1593922357774	Marionette	INFO	Listening on port 35495
+1593922357800	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593922358841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei2nIze"
+1593922361972	Marionette	INFO	Listening on port 39323
+1593922362049	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.live.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.live.com"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.live.com"
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1593922401808	Marionette	INFO	Stopped listening on port 39323
+1593922432884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKRPbHx"
+1593922436105	Marionette	INFO	Listening on port 46087
+1593922436193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593922437242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemgJeEJ"
+1593922440048	Marionette	INFO	Listening on port 34013
+1593922440051	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.live.com"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1593922475791	Marionette	INFO	Stopped listening on port 34013

@@ -198,3 +198,78 @@ JavaScript error: , line 0: NotAllowedError: The play method is not allowed by t
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1593922529691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerSqVPS"
+1593922533085	Marionette	INFO	Listening on port 37179
+1593922533101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593922534149	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiowfO6"
+1593922536831	Marionette	INFO	Listening on port 36229
+1593922536856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593922571872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX3Gjq3"
+1593922575301	Marionette	INFO	Listening on port 41419
+1593922575382	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593922576425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenbtfrw"
+1593922579333	Marionette	INFO	Listening on port 46117
+1593922579433	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593922605049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5cLr4V"
+1593922609031	Marionette	INFO	Listening on port 39319
+1593922609063	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593922610102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSrUrC2"
+1593922613402	Marionette	INFO	Listening on port 44141
+1593922613414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593922629890	Marionette	INFO	Stopped listening on port 39319
+1593922630082	Marionette	INFO	Stopped listening on port 44141
+1593922702010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqnHIBz"
+1593922704392	Marionette	INFO	Listening on port 35667
+1593922704417	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593922718897	Marionette	INFO	Stopped listening on port 35667
+1593922740820	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel3Sy3I"
+1593922743082	Marionette	INFO	Listening on port 39663
+1593922743126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593922755995	Marionette	INFO	Stopped listening on port 39663
+1593922789984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ1Q4mS"
+1593922792375	Marionette	INFO	Listening on port 46365
+1593922792389	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1593922820464	Marionette	INFO	Stopped listening on port 46365
+1593922840031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyJQ0Am"
+1593922842427	Marionette	INFO	Listening on port 45501
+1593922842445	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1593922870025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileooUQ3T"
+1593922870240	Marionette	INFO	Stopped listening on port 45501
+1593922872393	Marionette	INFO	Listening on port 38645
+1593922872432	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593922890907	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXKy76u"
+1593922890928	Marionette	INFO	Stopped listening on port 38645
+1593922893138	Marionette	INFO	Listening on port 45641
+1593922893213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593922904792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilextW53S"
+1593922907697	Marionette	INFO	Listening on port 45721
+1593922907700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593922912220	Marionette	INFO	Stopped listening on port 45641
+1593922926245	Marionette	INFO	Stopped listening on port 45721
+1593922978415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerRqi4b"
+1593922980777	Marionette	INFO	Listening on port 45459
+1593922980821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593923001919	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemI8zDe"
+1593923004256	Marionette	INFO	Listening on port 43439
+1593923004328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593923044096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez7xGU2"
+1593923046588	Marionette	INFO	Listening on port 39221
+1593923046607	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1593923116225	Marionette	INFO	Stopped listening on port 43439
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1593923118734	Marionette	INFO	Stopped listening on port 45459
+1593923120963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGt2bPU"
+1593923123499	Marionette	INFO	Listening on port 33535
+1593923123570	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593923143695	Marionette	INFO	Stopped listening on port 33535
+1593923143813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewIQmN1"
+1593923146176	Marionette	INFO	Listening on port 35687
+1593923146219	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593923175639	Marionette	INFO	Stopped listening on port 35687
