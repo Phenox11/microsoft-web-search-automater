@@ -1,0 +1,329 @@
+1593919234817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGo2L1m"
+1593919238532	Marionette	INFO	Listening on port 45077
+1593919238626	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1593919244543	Marionette	INFO	Stopped listening on port 45077
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1593919261509	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7jCybp"
+1593919264668	Marionette	INFO	Listening on port 38235
+1593919264720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1593919270639	Marionette	INFO	Stopped listening on port 38235
+1593919415082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerEYcS2"
+1593919418635	Marionette	INFO	Listening on port 44011
+1593919418693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593919428795	Marionette	INFO	Stopped listening on port 44011
+1593919433793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled4TirZ"
+1593919437472	Marionette	INFO	Listening on port 33469
+1593919437503	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593919446754	Marionette	INFO	Stopped listening on port 33469
+1593919460747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezyPZst"
+1593919464197	Marionette	INFO	Listening on port 37631
+1593919464262	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593919472222	Marionette	INFO	Stopped listening on port 37631
+1593919502808	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehRvUNZ"
+1593919506249	Marionette	INFO	Listening on port 34659
+1593919506317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593919525849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN45p1J"
+1593919529298	Marionette	INFO	Listening on port 44015
+1593919529358	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1593919535270	Marionette	INFO	Stopped listening on port 44015
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1593919599756	Marionette	INFO	Stopped listening on port 34659
+1593919957826	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuPE1Fo"
+1593919961350	Marionette	INFO	Listening on port 34139
+1593919961435	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1593919968502	Marionette	INFO	Stopped listening on port 34139
+1593919974896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIXVDAz"
+1593919978589	Marionette	INFO	Listening on port 41323
+1593919978606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1593919985718	Marionette	INFO	Stopped listening on port 41323
+1593920038693	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezPxHlC"
+1593920042672	Marionette	INFO	Listening on port 34161
+1593920042704	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593920050242	Marionette	INFO	Stopped listening on port 34161
+1593920317158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyCRdQP"
+1593920320876	Marionette	INFO	Listening on port 34841
+1593920320967	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1593920326751	Marionette	INFO	Stopped listening on port 34841
+1593920359142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBfiRqp"
+1593920362623	Marionette	INFO	Listening on port 44365
+1593920362651	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593920388427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexiZhrf"
+1593920392279	Marionette	INFO	Listening on port 35513
+1593920392338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1593920398951	Marionette	INFO	Stopped listening on port 35513
+1593920440205	Marionette	INFO	Stopped listening on port 44365
+1593920453182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCwtB9v"
+1593920456817	Marionette	INFO	Listening on port 35365
+1593920456894	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1593920511798	Marionette	INFO	Stopped listening on port 35365
+1593920617300	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKnFw45"
+1593920620956	Marionette	INFO	Listening on port 39651
+1593920621008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1593920660797	Marionette	INFO	Stopped listening on port 39651
+1593920727069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3AGq5a"
+1593920730709	Marionette	INFO	Listening on port 41579
+1593920730779	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1593920780193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1mxe5x"
+1593920783746	Marionette	INFO	Listening on port 41863
+1593920783802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593920785596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqGbfTT"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1593920790342	Marionette	INFO	Stopped listening on port 41863
+1593920790941	Marionette	INFO	Listening on port 44013
+1593920791007	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1593920795874	Marionette	INFO	Stopped listening on port 44013
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1593920884692	Marionette	INFO	Stopped listening on port 41579
+1593921144253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLuuoLp"
+1593921147847	Marionette	INFO	Listening on port 37949
+1593921147863	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1593921175140	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile25oj3f"
+1593921178212	Marionette	INFO	Stopped listening on port 37949
+1593921180198	Marionette	INFO	Listening on port 45841
+1593921180254	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1593921225495	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecAoZn2"
+1593921229145	Marionette	INFO	Listening on port 33161
+1593921229205	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=788e0f63-2bf3-4395-abef-0d4cfa1db85e&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 47: uncaught exception: [Retry 0] Failed to load external resource ['https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/ux.old.converged.error.core.min_nesv-99rs7akm487qunsfw2.js'], reloading from fallback CDN endpoint
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=788e0f63-2bf3-4395-abef-0d4cfa1db85e&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=788e0f63-2bf3-4395-abef-0d4cfa1db85e&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 47: uncaught exception: [Retry 2] Failed to load external resource ['https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/ux.old.converged.error.core.min_nesv-99rs7akm487qunsfw2.js'], reloading from fallback CDN endpoint
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=17d2e1ae-8d3e-46a1-b08f-790afcc2ebc2&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+1593921257418	Marionette	INFO	Stopped listening on port 33161
+1593921324806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMM0VCJ"
+1593921328628	Marionette	INFO	Listening on port 39675
+1593921328719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1593921362505	Marionette	INFO	Stopped listening on port 39675
+1593921364051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKpzD0D"
+1593921367537	Marionette	INFO	Listening on port 37611
+1593921367558	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=86041e9c-f55f-4e01-a3c7-74daa00adcc6&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 47: uncaught exception: [Retry 0] Failed to load external resource ['https://aadcdn.msftauth.net/ests/2.1/content/cdnbundles/ux.old.converged.error.core.min_nesv-99rs7akm487qunsfw2.js'], reloading from fallback CDN endpoint
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=86041e9c-f55f-4e01-a3c7-74daa00adcc6&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=86041e9c-f55f-4e01-a3c7-74daa00adcc6&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 47: uncaught exception: [Retry 2] Failed to load external resource ['https://aadcdn.msftauth.net/ests/2.1/content/cdnbundles/ux.old.converged.error.core.min_nesv-99rs7akm487qunsfw2.js'], reloading from fallback CDN endpoint
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=471c8f70-7357-40b4-8543-5f4c7bb2f802&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 47: uncaught exception: [Retry 0] Failed to load external resource ['https://aadcdn.msftauth.net/ests/2.1/content/cdnbundles/ux.old.converged.error.core.min_nesv-99rs7akm487qunsfw2.js'], reloading from fallback CDN endpoint
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=471c8f70-7357-40b4-8543-5f4c7bb2f802&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=471c8f70-7357-40b4-8543-5f4c7bb2f802&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 47: uncaught exception: [Retry 1] Failed to load external resource ['https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/frameworksupport.min_zhg7it_lri4wqwee0pmhtg2.js'], reloading from fallback CDN endpoint
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=e2469345-295b-47a4-b65a-2fbfaaecac43&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=d603dc9a-fe16-437b-957e-eafdc7230c4c&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=18604440-2878-46e8-84b6-d8e65e9ea266&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+1593921395807	Marionette	INFO	Stopped listening on port 37611
+1593921463743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSjfJtE"
+1593921467551	Marionette	INFO	Listening on port 43353
+1593921467566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1593921473812	Marionette	INFO	Stopped listening on port 43353
+1593921487429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegKGqVQ"
+1593921491025	Marionette	INFO	Listening on port 32887
+1593921491041	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1593921496521	Marionette	INFO	Stopped listening on port 32887
+1593921515482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebduX0j"
+1593921519067	Marionette	INFO	Listening on port 34635
+1593921519091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1593921524977	Marionette	INFO	Stopped listening on port 34635
+1593921568556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevGvShu"
+1593921572266	Marionette	INFO	Listening on port 40131
+1593921572367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1593921578717	Marionette	INFO	Stopped listening on port 40131
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1593921590182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelCw0cv"
+1593921593741	Marionette	INFO	Listening on port 38853
+1593921593791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1593921600449	Marionette	INFO	Stopped listening on port 38853
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1593921619630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepSZjV2"
+1593921625881	Marionette	INFO	Listening on port 39913
+1593921625946	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1593921640577	Marionette	INFO	Stopped listening on port 39913
+1593921742565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6WVmcf"
+1593921746080	Marionette	INFO	Listening on port 44819
+1593921746175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=d3bdb462-888b-4ce8-a4d0-07efde879c90&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=d3bdb462-888b-4ce8-a4d0-07efde879c90&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 47: uncaught exception: [Retry 1] Failed to load external resource ['https://aadcdn.msauth.net/ests/2.1/content/cdnbundles/frameworksupport.min_zhg7it_lri4wqwee0pmhtg2.js'], reloading from fallback CDN endpoint
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=d3bdb462-888b-4ce8-a4d0-07efde879c90&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 47: uncaught exception: [Retry 2] Failed to load external resource ['https://aadcdn.msftauth.net/ests/2.1/content/cdnbundles/frameworksupport.min_zhg7it_lri4wqwee0pmhtg2.js'], reloading from fallback CDN endpoint
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=2ec51a77-dc22-4381-a942-5fe009a47b98&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=be277809-0055-455c-ba55-985ff5a9ca13&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=2c3c621b-6c0c-481f-b8b1-d6c2811fb45e&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=fbf74731-dac9-40ab-b8bc-7a47549533ff&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=23309281-9c0b-4c5a-9393-83f533642c49&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=63b2f552-a86b-454c-871a-c5a1f17a9ac4&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=4f56e6d3-582e-4e52-ac29-8c3b96c44ec6&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=b2369107-2cf3-4161-8e89-3a2d14127dcc&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=28c590f9-a8e9-416c-92d6-725db909c302&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+JavaScript error: https://login.microsoftonline.com/common/oauth2/authorize?client_id=9ea1ad79-fdb6-4f9a-8bc3-2b70f96e34c7&response_type=id_token&nonce=c15b309b-7dfc-43e9-bcd7-8c50af8411d0&redirect_uri=https%3a%2f%2fwww.bing.com%2forgid%2fidtoken%2fnosignin&scope=openid&response_mode=form_post&msafed=0&prompt=none, line 138: InvalidAccessError: A parameter or an operation is not supported by the underlying object
+1593921782886	Marionette	INFO	Stopped listening on port 44819
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1593921785080	Marionette	INFO	Stopped listening on port 45841
+1593921872582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqKdHKi"
+1593921876173	Marionette	INFO	Listening on port 43069
+1593921876192	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1593921906620	Marionette	INFO	Stopped listening on port 43069
+1593921917674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletHcOJP"
+1593921920205	Marionette	INFO	Listening on port 34113
+1593921920286	Marionette	WARN	TLS certificate errors will be ignored for this session
